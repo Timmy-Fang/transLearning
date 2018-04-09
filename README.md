@@ -1,2 +1,0 @@
-# transLearning
-transfer learning tutorial
